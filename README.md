@@ -149,4 +149,4 @@ socket-chat-server/<br/>
 
 ## Author
 
-Developed by **Tushar Bhardwaj** - [Portfolio](https://tushar-bhardwaj.vercel.app/)
+Developed by [Tushar Bhardwaj](https://tushar-bhardwaj.vercel.app/)
