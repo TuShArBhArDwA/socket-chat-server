@@ -8,6 +8,14 @@ No external frameworks or databases are used.
 
 ---
 
+## Project Demo
+
+Watch the live demonstration here:
+
+👉 [Socket Chat Server | Node.js Backend Assignment Demo](https://www.loom.com/share/2ccfaca87ed844b189cef01f2166e5bf)
+
+---
+
 ## Features
 
 - Multiple clients can connect simultaneously
