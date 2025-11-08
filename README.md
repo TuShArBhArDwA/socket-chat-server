@@ -43,10 +43,10 @@ No external frameworks or databases are used.
 By default, the server listens on port 4000.
 You can change it with an environment variable:
 
-    ```bash
+   ```bash
     set PORT=5000
     node server.js
-    ```
+   ```
 
 ---
 
