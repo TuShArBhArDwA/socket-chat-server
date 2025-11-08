@@ -140,7 +140,6 @@ socket-chat-server/<br/>
 ## Contact
 
 - **Meet T-Bot** - [Discover My Work](https://t-bot-blush.vercel.app/)
-- **Tushar Bhardwaj** - [Portfolio](https://tushar-bhardwaj.vercel.app/)
 - **Connect 1:1** - [Topmate](https://topmate.io/tusharbhardwaj)
 - **GitHub:** [TuShArBhArDwA](https://github.com/TuShArBhArDwA)
 - **LinkedIn:** [Tushar Bhardwaj](https://www.linkedin.com/in/bhardwajtushar2004/)
@@ -150,4 +149,4 @@ socket-chat-server/<br/>
 
 ## Author
 
-Developed by **Tushar Bhardwaj**
+Developed by **Tushar Bhardwaj** - [Portfolio](https://tushar-bhardwaj.vercel.app/)
