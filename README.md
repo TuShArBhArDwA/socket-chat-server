@@ -32,7 +32,7 @@ No external frameworks or databases are used.
 
 1. Clone or download this repository:
    ```bash
-   git clone https://github.com/<your-username>/socket-chat-server.git
+   git clone https://github.com/TuShArBhArDwA/socket-chat-server.git
    cd socket-chat-server
    ```
 2. Run the server:
